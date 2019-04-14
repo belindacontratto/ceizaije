@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eegiewufoh.emk-complexity.org/sitemap.xml
